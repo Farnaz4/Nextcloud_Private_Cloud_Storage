@@ -10,6 +10,7 @@ REFER TO ----------> https://mailserverguru.com/install-nextcloud-on-ubuntu-22-0
 
 Step 1: 
 Create an EC2 server with specific allocations. We allocated a fixed IP to the EC2 server and downloaded the key to connect it through PUTTY.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------
 Step 2:
 
