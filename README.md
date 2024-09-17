@@ -3,6 +3,11 @@ Building a private storage solution using nextcloud hosted in amazon EC2. The st
 
 
 
+REFER TO ----------> https://mailserverguru.com/install-nextcloud-on-ubuntu-22-04-lts/
+
+
+
+
 Step 1: 
 Create an EC2 server with specific allocations. We allocated a fixed IP to the EC2 server and downloaded the key to connect it through PUTTY.
 -----------------------------------------------------------------------------------------------------------------------------------------------
